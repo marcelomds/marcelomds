@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcelo 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Laravel | React | Next.js | Node.js | Shopify</strong><br>
+  <strong>Full Stack Developer | Laravel | React | VueJS | Node.js | PHP | JavaScript</strong><br>
   Passionate about building scalable solutions and clean UI/UX.
 </p>
 
@@ -9,11 +9,13 @@
 
 ### 🚀 About Me
 
+- 👨‍💻 5+ years of experience developing scalable web systems and mobile applications
 - 🔭 Currently working as **Tech Leader** at ME2 Softwares
-- 🌎 From **Fortaleza, Brazil**
-- 🧠 Learning more about **AI, DevOps and Distributed Systems**
-- 🤝 Open to freelance work or full-time remote roles
-- 🗣️ I can work fluently in **Portuguese** and **English**
+- 🌎 Based in **Fortaleza, Brazil**
+- 💡 Passionate about solving real-world problems with code
+- 🧠 Always learning more about **AI**, **DevOps**, and **Software Architecture**
+- 🤝 Open to freelance work and remote opportunities worldwide
+- 🗣️ Languages: **Portuguese (native)** | **English (advanced)**
 
 ---
 
@@ -21,9 +23,15 @@
 
 ```js
 const stack = {
-  frontEnd: ['React', 'Javascript', 'React Native', 'VueJS'],
-  backEnd: ['Laravel', 'Node.js', 'NestJS'],
+  frontEnd: ['React', 'JavaScript', 'React Native', 'VueJS'],
+  backEnd: ['Laravel', 'Node.js', 'NestJS', 'PHP'],
   devOps: ['Docker'],
   tools: ['VSCode', 'Postman', 'Figma', 'Jira', 'Notion'],
   db: ['MySQL', 'PostgreSQL', 'MongoDB'],
 }
+
+```
+### 📫 Contact Me
+✉️ marcelo.dev.soft@gmail.com
+
+💼 linkedin.com/in/marcelomds
