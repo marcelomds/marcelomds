@@ -34,4 +34,4 @@ const stack = {
 ### 📫 Contact Me
 ✉️ marcelo_mmds@hotmail.com
 
-💼 linkedin.com/in/marcelo-moreira-b7615375
+💼 https://www.linkedin.com/in/marcelo-moreira-b7615375/
