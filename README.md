@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcelo 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Laravel | React | VueJS | Node.js | PHP | JavaScript</strong><br>
+  <strong>Full Stack Developer | Laravel | React | VueJS | CodeIgniter | Node.js | PHP | JavaScript</strong><br>
   Passionate about building scalable solutions and clean UI/UX.
 </p>
 
@@ -24,7 +24,7 @@
 ```js
 const stack = {
   frontEnd: ['React', 'JavaScript', 'React Native', 'VueJS'],
-  backEnd: ['Laravel', 'Node.js', 'NestJS', 'PHP'],
+  backEnd: ['Laravel', 'Node.js', 'NestJS', 'PHP', 'CodeIgniter'],
   devOps: ['Docker'],
   tools: ['VSCode', 'Postman', 'Figma', 'Jira', 'Notion'],
   db: ['MySQL', 'PostgreSQL', 'MongoDB'],
