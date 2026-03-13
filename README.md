@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 6+ years of experience developing scalable web systems and mobile applications
+- 👨‍💻 7+ years of experience developing scalable web systems and mobile applications
 - 🔭 Currently working as **Tech Leader** at ME2 Softwares
 - 🌎 Based in **Fortaleza, Brazil**
 - 💡 Passionate about solving real-world problems with code
