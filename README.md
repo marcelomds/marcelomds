@@ -32,6 +32,6 @@ const stack = {
 
 ```
 ### 📫 Contact Me
-✉️ marcelo_mmds@hotmail.com
+✉️ marcelom.developer@gmail.com
 
 💼 https://www.linkedin.com/in/marcelo-moreira-b7615375/
