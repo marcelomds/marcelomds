@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Moreira</h1>
-<h3 align="center">Senior Software Engineer & Tech Lead — building scalable web & mobile products</h3>
+<h3 align="center">Senior Software Engineer — building scalable web & mobile products</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-marcelomoreira/">
