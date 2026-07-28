@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer & Tech Lead — building scalable web & mobile products</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcelo-moreira-b7615375/">
+  <a href="https://www.linkedin.com/in/dev-marcelomoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcelom.developer@gmail.com">
@@ -18,7 +18,7 @@
 - 👨‍💻 **7+ years** building scalable web systems and mobile applications
 - 🔭 Currently **Tech Lead at ME2 Softwares**
 - 🌎 Based in **Fortaleza, Brazil** — open to **remote** roles worldwide
-- 💡 Focused on clean architecture, performance and great UI/UX
+- 💡 Focused on clean architecture, performance, **CI/CD pipelines** and great UI/UX
 - 🧠 Always learning: **AI, DevOps and Software Architecture**
 - 🗣️ **Portuguese** (native) · **English** (advanced)
 
@@ -40,9 +40,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**DevOps & Databases**  
+**DevOps & CI/CD**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4E9A06?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -51,7 +55,7 @@
 
 ### 📌 Featured Project
 
-**[devmind-ai-project](https://github.com/marcelomds/devmind-ai-project)** — AI-powered developer workspace built with **Laravel, React and Docker**, deployed on **AWS ECS & EC2**.
+**[devmind-ai-project](https://github.com/marcelomds/devmind-ai-project)** — AI-powered developer workspace built with **Laravel, React and Docker**, deployed on **AWS ECS & EC2** with automated **CI/CD via GitHub Actions**.
 
 ---
 
@@ -67,4 +71,4 @@
 ### 📫 Let's connect
 
 - ✉️ **marcelom.developer@gmail.com**
-- 💼 [linkedin.com/in/marcelo-moreira](https://www.linkedin.com/in/marcelo-moreira-b7615375/)
+- 💼 [linkedin.com/in/dev-marcelomoreira](https://www.linkedin.com/in/dev-marcelomoreira/)
