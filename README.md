@@ -54,7 +54,7 @@
 
 ### 📌 Featured Project
 
-**[devmind-ai-project](https://github.com/marcelomds/devmind-ai-project)** — AI-powered developer workspace built with **Laravel, React and Docker**, deployed on **AWS ECS & EC2** with automated **CI/CD via GitHub Actions**.
+**[devmind-ai-project](https://github.com/marcelomds/devmind-ai-project)** — AI-powered developer workspace built with **Laravel, React and Docker**, deployed on **AWS EC2** with automated **CI/CD via GitHub Actions**.
 
 ---
 
