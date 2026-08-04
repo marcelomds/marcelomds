@@ -56,9 +56,15 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**[devmind-ai-project](https://github.com/marcelomds/devmind-ai-project)** — AI-powered developer workspace built with **Laravel, React and Docker**, deployed on **AWS EC2** with automated **CI/CD via GitHub Actions**.
+**[DevMind](https://github.com/marcelomds/devmind-ai-project)** — Internal AI code-review platform that automatically analyses every pull request and tracks a project's code-quality trends over time on a dashboard for the dev team. **Laravel, React, OpenAI API, Docker, AWS**.
+
+**Multitenant Inventory & Billing SaaS** — NestJS-based multitenant SaaS for inventory management and client billing/invoicing, in production since launch, serving multiple client organisations from a single codebase. **NestJS, Node.js, Docker, AWS**.
+
+**Property-Records Platform** — Node.js/Express backend for land-registry and deed lookups, including a client portal giving each customer private, scoped access to their own property records. **Node.js, Express, MySQL**.
+
+**[Finance-Agent AI](https://github.com/marcelomds/finance-agent-AI)** — AI-powered expense processing system that extracts, matches, and reconciles bank transactions automatically. Currently in active development. **Node.js, TypeScript, Express, Prisma, PostgreSQL, React**.
 
 ---
 
