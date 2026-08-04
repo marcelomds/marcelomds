@@ -15,12 +15,13 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 **7+ years** building scalable web systems and mobile applications
-- 🔭 Currently **Tech Lead at ME2 Softwares**
+- 👨‍💻 **7+ years** delivering SaaS platforms and custom software as an independent contractor, anchored by a long-running engagement with **ME2 Softwares** since 2020
+- 🔭 Currently building **[Finance-Agent AI](https://github.com/marcelomds/finance-agent-AI)**, an AI-powered expense processing system
+- 🛠️ Comfortable owning either stack end-to-end — **Node.js/NestJS** or **PHP/Laravel** APIs on **AWS with Docker**, through to **Vue.js** and **React** front ends
 - 🌎 Based in **Fortaleza, Brazil** — open to **remote** roles worldwide
-- 💡 Focused on clean architecture, performance, **CI/CD pipelines** and great UI/UX
-- 🧠 Always learning: **AI, DevOps and Software Architecture**
-- 🗣️ **Portuguese** (native) · **English** (advanced)
+- 🧠 Integrating **LLM-based automation** (OpenAI, Anthropic) into production workflows
+- 💡 Focused on clean architecture, testing, and shipping features end-to-end
+- 🗣️ **Portuguese** (native) · **English** (professional working proficiency)
 
 ---
 
@@ -69,5 +70,6 @@
 
 ### 📫 Let's connect
 
+- 🌐 [marcelomdeveloper.com](https://marcelomdeveloper.com)
 - ✉️ **marcelom.developer@gmail.com**
 - 💼 [linkedin.com/in/dev-marcelomoreira](https://www.linkedin.com/in/dev-marcelomoreira/)
