@@ -2,6 +2,9 @@
 <h3 align="center">Senior Software Engineer — building scalable web & mobile products</h3>
 
 <p align="center">
+  <a href="https://marcelomdeveloper.com">
+    <img src="https://img.shields.io/badge/Portfolio-4FD6B0?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/dev-marcelomoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
