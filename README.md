@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 **7+ years** delivering SaaS platforms and custom software as an independent contractor, anchored by a long-running engagement with **ME2 Softwares** since 2020
+- 👨‍💻 **7+ years** delivering SaaS platforms and custom software as Co-founder & Tech Lead at **ME2 Softwares** since 2020
 - 🔭 Currently building **[Finance-Agent AI](https://github.com/marcelomds/finance-agent-AI)**, an AI-powered expense processing system
 - 🛠️ Comfortable owning either stack end-to-end — **Node.js/NestJS** or **PHP/Laravel** APIs on **AWS with Docker**, through to **Vue.js** and **React** front ends
 - 🌎 Based in **Fortaleza, Brazil** — open to **remote** roles worldwide
